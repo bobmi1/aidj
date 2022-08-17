@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+    background-image: url(background.jpg);
+    background-size: cover;
+    color: darkgreen;
+
+} 
+
+.heading {
+    width: 100%;
+    margin: 0px;
+    font-size: 16px;
+}
+
+.note {
+    font-size: 15px;
+    color:mediumblue; 
+}
+
+.SPEED {
+    float: left;
+    
+}
+
+.SPEED_img {
+    width: 200px;
+    border-radius: 100px;    
+}
+   
+   
+.volume {
+float: right;    
+}
+
+.VOLUME_img {
+    width: 200px;
+    border-radius: 100px;    
+   }
+
+canvas{
+    border:5px solid ;
+    border-radius: 20px;
+    border-color: darkmagenta;
+}
+
+.Play {
+    width: 130px;
+    font-size: 25px;
+    
+}
+
+   
